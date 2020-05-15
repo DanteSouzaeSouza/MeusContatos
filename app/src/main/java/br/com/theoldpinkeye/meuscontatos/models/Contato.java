@@ -8,7 +8,6 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 
 public class Contato implements Parcelable
 {
-
   private String avatar;
   private String largeAvatar;
   private String birthday;
